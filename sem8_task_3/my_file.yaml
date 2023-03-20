@@ -1,0 +1,11 @@
+count: 4
+items:
+- computer
+- printer
+- scanner
+- mouse
+price:
+  computer: 500-4000ˆ
+  mouse: 5-80ˆ
+  printer: 100-500ˆ
+  scanner: 50-300ˆ
